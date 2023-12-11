@@ -41,7 +41,7 @@
                 </button>
               </div>
               <div class="input-group-append">
-                <button type="button" class="btn" @click="setting()">
+                <button type="button" class="btn upload-data" @click="setting()">
                   <md-icon>settings</md-icon>
                 </button>
               </div>
